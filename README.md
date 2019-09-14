@@ -11,3 +11,4 @@
   Step 4: Run resultsTesting.slx                                         
   ( you can also test the Nyquist results by nyquistTest.m )               
 *************************************************************************
+(Nanyang Technological University - Process Control)
